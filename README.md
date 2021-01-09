@@ -6,7 +6,8 @@ This is a website that i've created that will allow the viewers to browse throug
 
 ## Design Process
 
-This website that i've created is mainly to target company that is hiring where i can showcase my work to them and through the website they will be able to contact me. For my design process, i first started planning a wireframe on how i wanted to layout my website (for example, where i wanted to place the text or images as well as the alignment). Since this is about a portfolio website, i created a navigation bar where it will be easier for them (audience) to navigate the site easily. As for the contact page, it will be easier for them to contact me for any enquiry without the need for them go through long process etc logging in their email to contact me.
+This website that i've created is mainly to target anyone who wants to view the most latest updated cases of the covid-19 from all the differnt countires. For my design process, i first started planning out a wireframe on how i wanted to layout my website. For the index page also known as the home page, i added the API that i've selected which is the "Covid-19" api from rapidapi website. I designed in a way where there is a dropdown bar for the viewers to look for their countries or just type out their country name to view the latest cases. Also, the navigation bar will navigate the users to different pages on the website. On the "About us" page, i mainly explained what is this website about and also sharing some tips of what things they should do to prevent covid as well as mentioning all the symptoms of the covid-19. Lastly for the "contact us" page, i used a table to display the list of offical covid-19 resource. 
+For the colour scheme for the website, i decided to stick to colours like the earth ball so the colours will be like blue, green, white and black.
 
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
@@ -15,10 +16,15 @@ In particular, as part of this section we recommend that you provide a list of U
 
 Wireframe:
 
-- Index Page: https://xd.adobe.com/view/92fc93ca-dc38-4309-b876-5ae636a6ef95-c7af/ 
-- Design Page: https://xd.adobe.com/view/02ad5b61-e59b-44aa-896e-7ed159df11ee-57fe/
-- Web Development Page: https://xd.adobe.com/view/f863b671-c922-4766-9388-e1fbc39faf76-ad30/ 
-- Contactme Page: https://xd.adobe.com/view/1b2505c6-bbcc-403b-8326-883fd15c0778-4e76/ 
+(Web)
+- Index Page: https://xd.adobe.com/view/dc04dcac-5e49-4e8b-b82f-108cc37a4101-8957/   
+- About us Page: https://xd.adobe.com/view/b5c928ee-33fb-4e24-9eeb-a8fe584ce683-e09a/ 
+- Contact us Page: https://xd.adobe.com/view/55271adb-53d2-4f90-b277-286d238efbbf-0074/  
+
+(Mobile)
+- Index Page: https://xd.adobe.com/view/74e13df3-c225-42b6-adcf-c2ac115d2000-21b2/     
+- About us Page: https://xd.adobe.com/view/70f901d9-5d0f-407b-a17e-c19260766547-25aa/   
+- Contact us Page: https://xd.adobe.com/view/cd21b419-9347-4081-b35f-b1e71643aa1b-9872/  
 
 ## Features
 
