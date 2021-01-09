@@ -8,7 +8,7 @@ body {
 .APIContainer {
     margin: 50px auto 150px auto;
     padding: 10px 20px 10px 20px;
-    border: 2px solid rgb(0, 0, 0);
+    border: 5px solid rgb(0, 0, 0);
     border-radius: 5px;
     width: 80%;
     min-width: 500px;
@@ -44,9 +44,3 @@ div{
     font-family: 'Andika New Basic', sans-serif;
 }
 
-h1{
-    font-weight: bold;
-    color: white;
-    text-align: center;
-    font-family: 'Noto Serif', serif;
-}
