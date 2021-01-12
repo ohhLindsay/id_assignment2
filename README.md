@@ -89,3 +89,6 @@ The different sizing and browser works fine on all the devices and browsers.
 ### Acknowledgements
 
 - I received inspiration for this project from looking through w3school website and other covid-19 resources website to apply the sources to my website.
+
+## Website Link
+https://ohhlindsay.github.io/id_assignment2/
